@@ -30,6 +30,7 @@ INSERT INTO Students (rollNo, Name, Gender, email, Dob, ClgName, city, percentag
 ('221FA04091','Rohith','Male','221FA04091@gmail.com','2004-10-15','Vignan University','Edlapalli',65.5),
 ('221FA04127','Kumar','Male','221FA04127@gmail.com','2005-02-03','Vignan University','Upputur',65.5),
 ('221FA04141','RajaGopal','Male','221FA04141@gmail.com','2003-08-03','Vignan University','Perecherla',63.5),
+    ('221FA04148','Manasa','Female','221FA04148@gmail.com','2005-01-01','Vignan Univeristy','Tenali','84.5),
 ('221FA04149','SindhusriSaiChandraLekha','Female','221FA04149@gmail.com','2005-04-05','Vignan University','Bapatla',82.5);
 
 -- Display all records
