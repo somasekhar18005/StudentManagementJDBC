@@ -25,3 +25,30 @@ This is a simple **Student Management System** developed in **Java** using **JDB
 
 ## 📂 Project Structure
 
+StudentManagement/
+│
+├── com.studentmanagement.model
+│ └── Student.java
+│
+├── com.studentmanagement.dao
+│ ├── StudentDaoInterface.java
+│ └── StudentDaoImpl.java
+│
+├── com.studentmanagement.main
+│ └── Main.java
+│
+└── README.md
+
+## 🧮 Database Configuration (MySQL)
+
+### Step 1: Create Database
+
+```sql
+CREATE DATABASE DB_Name;
+USE DB_Name;
+```Create Table
+create table Table_Name(attributes.....);
+
+```insert the values into table
+insert into Table_Name values (attribute1),(attribute2);
+
