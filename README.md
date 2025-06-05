@@ -50,5 +50,5 @@ USE DB_Name;
 create table Table_Name(attributes.....);
 
 ```insert the values into table
-insert into Table_Name values (attribute1),(attribute2);
+insert into Table_Name values (value1),(value2);
 
